@@ -1,4 +1,4 @@
-# Random-Forest
+# Random-Forest and Decision Tree classification
 
 An algorithm to predict whether the customer purchase SUVs based on the social adds or not.
 
